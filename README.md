@@ -42,9 +42,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: RAVIVARMAN VV
 
-### Register Number:
+### Register Number: 212224240133
 
 ```python
 class PeopleClassifier(nn.Module):
@@ -70,14 +70,15 @@ Include screenshot of the dataset.
 ### OUTPUT
 
 ## Confusion Matrix
+<img width="539" height="455" alt="image" src="https://github.com/user-attachments/assets/ed994076-20f9-4bc8-b20e-d0a6e714c3f2" />
 
-Include confusion matrix here
 
 ## Classification Report
-Include classification report here
+<img width="561" height="456" alt="image" src="https://github.com/user-attachments/assets/d8400b42-41cb-45c7-ad1f-af708afa7e6a" />
+
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="379" height="112" alt="image" src="https://github.com/user-attachments/assets/b5865bd5-5b36-4f12-b518-ce800ea1d27c" />
 
 ## RESULT
 Include your result here
