@@ -14,7 +14,6 @@ You are required to help the manager to predict the right group of the new custo
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-### STEP 1: 
 
 ### STEP 1:
 Data Collection and Understanding – Load the dataset, inspect features, and identify the target variable.
